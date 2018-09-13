@@ -1,3 +1,10 @@
+# Marlin Firmware fork for Anet E-10
+
+This is my fork of Marlin with all my custom configuration for the Anet E-10. Use at your own risk!
+
+## Board definition
+The board definitions used for the E-10 are available from [SkyNet3D](https://github.com/SkyNet3D/anet-board).
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
